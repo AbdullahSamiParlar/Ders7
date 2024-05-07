@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif; /* Yazı tipi ailesi */
+    font-size: 25px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-image: url("https://w0.peakpx.com/wallpaper/422/1017/HD-wallpaper-minimalism-simple-background-landscape-mountains.jpg");
+    background-color: #1f0909;
+    background-repeat: no-repeat;
+    background-size: 1750px 3500px;
+    background-attachment: fixed;
+    background-position: 0px -2100px;
+    color: #6bc5e9; /* Metin rengi */
+    
+}
+
+h1 {
+    color: #00ff00; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+    position:relative; left:0px;
+}
+
+
+h2 {
+    color: #00ffd5; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    position:relative; left:10px;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+}
+
+p {
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+    color: #85f7ff; /* Başlık rengi */
+    font-size: 20px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    position:relative; left:20px;
+}
+
+ul {
+    color: #5900ff; /* Başlık rengi */
+    font-size: 20px; /* Başlık yazı tipi boyutu */
+    font-family: 'Times New Roman', Times, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    position:relative; left:25px;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+}
+
+img {
+    color: #307070; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Times New Roman', Times, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+    position:relative; left:100px;
+    border: 7px solid rgb(79, 156, 77);
+    outline: #4CAF50 solid 10px;
+
+    margin: auto;  
+    padding: 2x;
+    text-align: center;
+}
